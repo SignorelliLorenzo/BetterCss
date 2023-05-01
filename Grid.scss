@@ -1,0 +1,19 @@
+.SCol {
+    display: flex;
+    flex-flow: column;
+}
+.SRow{
+    display: flex;
+    flex-wrap: wrap;
+}
+.SFlexCenter{
+  justify-content: center;
+}
+.SSolidCenterX{
+    margin-left: auto;
+    margin-right: auto;
+}
+.SSolidCenterY{
+    margin-top: auto;
+    margin-bottom: auto;
+}

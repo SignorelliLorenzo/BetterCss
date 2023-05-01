@@ -1,0 +1,38 @@
+/*FONT FAMILY*/
+$font-family-h1: Helvetica, sans-serif;
+$font-family-h2: Helvetica, sans-serif;
+$font-family-h3: Helvetica, sans-serif;
+$font-family-h4: Helvetica, sans-serif;
+$font-family-p: Helvetica, sans-serif;
+$font-family-buttons: Helvetica, sans-serif;
+
+/*FONT SIZE*/
+$Max-font-size: 100px;
+
+
+h1{
+    font-family: $font-family-h1;
+    font-size: $Max-font-size;
+}
+h2{
+    font-family: $font-family-h2;
+    font-size: $Max-font-size*83%;
+}
+h3{
+    font-family: $font-family-h3;
+    font-size: $Max-font-size*67%;
+}
+h4{
+    font-family: $font-family-h4;
+    font-size: $Max-font-size*55.5%;
+}
+p{
+    font-family: $font-family-p;
+    font-size: $Max-font-size*44%;
+}
+input{
+    font-family:$font-family-buttons;
+}
+button{
+    font-family:$font-family-buttons;
+}
